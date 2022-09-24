@@ -1,5 +1,5 @@
 ## What is this
-A playground for Three.js spatial audio, an abstraction on top of Web Audio API
+A playground for Three.js spatial audio, an abstraction on top of Web Audio API. Demo: https://splendid-pony-560e49.netlify.app/
 
 ## How to use
  * Click on the cube to start / stop on 
