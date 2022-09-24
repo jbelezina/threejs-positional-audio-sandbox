@@ -25,7 +25,6 @@ import Stats from "three/examples/jsm/libs/stats.module";
 import { GUI } from "dat.gui";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { PositionalAudioHelper } from "./PositionalAudioHelper";
-import { floorPowerOfTwo } from "three/src/math/mathutils";
 
 const stats = Stats();
 document.body.appendChild(stats.dom);
